@@ -8,3 +8,4 @@ Leonardra/Leonardra is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![Leonardra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardra&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardra&layout=compact)](https://github.com/Leonardra/github-readme-stats)
