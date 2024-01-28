@@ -1,4 +1,4 @@
-- #Bio
+# Bio
 Oluwatobi is a Software Engineer with a rich background in technology and a demonstrated track record of over 3 years in designing and constructing large-scale enterprise systems. Prior to venturing into tech, he honed his skills in communications and branding strategy, particularly for startups, with a special emphasis on those making a positive social impact. His academic achievements include certificates from esteemed institutions such as the International Business Management Institute in Berlin and the Henley Business School in the UK.
 
 Beyond his professional pursuits, Oluwatobi dedicates his time to making a difference in his community. He serves as the Digital Programs Associate at Elevate Development Foundation, a youth-led NGO committed to educating, enlightening, and empowering vulnerable Nigerians in underserved communities. Additionally, he is also a BTrust Builders Fellow.
